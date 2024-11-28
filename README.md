@@ -9,7 +9,7 @@
 <!-- Logo and link to repository -->
 <p align="center">
   <a href="https://github.com/Pantonym/DV300_Term1">
-    <img src="spynet/src/assets/readmeAssets/LogoWhite.png" width="100px">
+    <img src="src/assets/readmeAssets/LogoWhite.png" width="100px">
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 
 <!-- Mockup -->
 ### Mockup
-<img src="spynet/src/assets/readmeAssets/Login.jpg" alt="Mockup" style="height: 600px"/>
+<img src="src/assets/readmeAssets/Login.jpg" alt="Mockup" style="height: 600px"/>
 
 <!--PROJECT DESCRIPTION-->
 ### Project Description
@@ -96,7 +96,7 @@ SpyNet is a management website where users can purchase ingredients and craft it
 * Ensures that your variable declarations and assignments remain consistent, which reduces bugs.
 * Being built on JavaScript, TypeScript functions in any place JS does, most importantly Node.js.
 <p>TypeScript was used to build the front end, as well as the backend.</p>
-<img src="spynet/src/assets/readmeAssets/TS.png" alt="TS_Logo" style="width: 300px; height: auto;" />
+<img src="src/assets/readmeAssets/TS.png" alt="TS_Logo" style="width: 300px; height: auto;" />
 
 <!-- Angular TS -->
 #### Angular TS
@@ -104,7 +104,7 @@ SpyNet is a management website where users can purchase ingredients and craft it
 * It is maintained by Google, and follows single-page routing.
 * Used to create the frontend of the website.
 <p>Angular TS allowed us to build and test the frontend of the website.</p>
-<img src="spynet/src/assets/readmeAssets/Angular.png" alt="Angular-Logo" style="width: 400px; height: 225px;"/>
+<img src="src/assets/readmeAssets/Angular.png" alt="Angular-Logo" style="width: 400px; height: 225px;"/>
 
 <!-- PostgreSQL -->
 #### PostgreSQL
@@ -112,7 +112,7 @@ SpyNet is a management website where users can purchase ingredients and craft it
 * Uses Structured Query Language (SQL)
 * Supports more complex data models than MySQL.
 <p>PostgreSQL was used to implement backend functionality to implement CRUD functionality to the website.</p>
-<img src="spynet/src/assets/readmeAssets/PostgreSQL.png" alt="Bootstrap-Logo" style="width: 400px; height: auto;"/>
+<img src="src/assets/readmeAssets/PostgreSQL.png" alt="Bootstrap-Logo" style="width: 400px; height: auto;"/>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -411,32 +411,32 @@ We chose a theme that highlighted the 'international spy' idea, having multiple 
 ### Development Documents
 <!-- Moodboard -->
 * Moodboard
-<img src="spynet/src/assets/readmeAssets/Moodboard.png" alt="Moodboard" style="height: 600px">
+<img src="src/assets/readmeAssets/Moodboard.png" alt="Moodboard" style="height: 600px">
 
 <!-- Iconography -->
 * Iconography
-<img src="spynet/src/assets/readmeAssets/Iconography.png" alt="Iconography" style="height: 200px">
+<img src="src/assets/readmeAssets/Iconography.png" alt="Iconography" style="height: 200px">
 
 <!-- Colour Palette -->
 * Colour Palette
-<img src="spynet/src/assets/readmeAssets/ColourPalette.png" alt="Colour Palette" style="height: 100px">
+<img src="src/assets/readmeAssets/ColourPalette.png" alt="Colour Palette" style="height: 100px">
 
 <!-- Data Planning - ERD -->
 * Data Planning - ERD
-<img src="spynet/src/assets/readmeAssets/ERD.png" alt="Data Planning - ERD" style="height: 300px">
+<img src="src/assets/readmeAssets/ERD.png" alt="Data Planning - ERD" style="height: 300px">
 
 <!-- Wireframes -->
 * Wireframes
 Login Page
-<img src="spynet/src/assets/readmeAssets/LoginWireframe.jpg" alt="Login" style="width: 600px"/>
+<img src="src/assets/readmeAssets/LoginWireframe.jpg" alt="Login" style="width: 600px"/>
 Dashboard Page
-<img src="spynet/src/assets/readmeAssets/DashboardWireframe.jpg" alt="Dashboard" style="width: 600px"/>
+<img src="src/assets/readmeAssets/DashboardWireframe.jpg" alt="Dashboard" style="width: 600px"/>
 Marketplace Page
-<img src="spynet/src/assets/readmeAssets/MarketplaceWireframe.jpg" alt="Marketplace" style="width: 600px"/>
+<img src="src/assets/readmeAssets/MarketplaceWireframe.jpg" alt="Marketplace" style="width: 600px"/>
 Marketplace Admin Page
-<img src="spynet/src/assets/readmeAssets/MarketplaceAdminWireframe.jpg" alt="MarketplaceA" style="width: 600px"/>
+<img src="src/assets/readmeAssets/MarketplaceAdminWireframe.jpg" alt="MarketplaceA" style="width: 600px"/>
 Warehouses Page
-<img src="spynet/src/assets/readmeAssets/WarehousesWireframe.jpg" alt="Warehouses" style="width: 600px"/>
+<img src="src/assets/readmeAssets/WarehousesWireframe.jpg" alt="Warehouses" style="width: 600px"/>
 
 <!-- Highlights -->
 #### Highlights
@@ -470,10 +470,10 @@ Warehouses Page
 ## Final Outcome
 <!-- MOCKUPS -->
 ### Mockups
-<img src="spynet/src/assets/readmeAssets/Dashboard.jpg" alt="Mockup" style="height: 600px"/>
-<img src="spynet/src/assets/readmeAssets/Login.jpg" alt="Mockup" style="height: 600px"/>
-<img src="spynet/src/assets/readmeAssets/Poster1.png" alt="Mockup" style="height: 600px"/>
-<img src="spynet/src/assets/readmeAssets/Poster2.png" alt="Mockup" style="height: 600px"/>
+<img src="src/assets/readmeAssets/Dashboard.jpg" alt="Mockup" style="height: 600px"/>
+<img src="src/assets/readmeAssets/Login.jpg" alt="Mockup" style="height: 600px"/>
+<img src="src/assets/readmeAssets/Poster1.png" alt="Mockup" style="height: 600px"/>
+<img src="src/assets/readmeAssets/Poster2.png" alt="Mockup" style="height: 600px"/>
 
 <br>
 
