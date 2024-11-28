@@ -1,0 +1,59 @@
+<div class="centered">
+
+    <!-- makes it impossible to type or press buttons -->
+    <!-- <div class="bg"></div> -->
+
+    <div class="loginForm">
+        <form [formGroup]="login" (ngSubmit)="onSubmit()">
+
+            <h1 class="title">ENTER CREDENTIALS</h1>
+            <br>
+
+            <label for="inpEmail">Email: </label> <br>
+            <input id="inpEmail" type="email" formControlName="email" class="inpEmail" value="glen@gmail.com" placeholder="glen@gmail.com"> <br>
+
+            <br>
+
+            <label for="inpPass">Password: </label> <br>
+            <input id="inpPass" type="password" formControlName="password" class="inpLogin" value="glen" placeholder="glen"> <br>
+            <br>
+            <hr />
+            <br>
+
+            <!-- Example admin login details: glen@gmail.com; glen -->
+            <!-- Example normal login details: john@gmail.com; john -->
+
+            <h2>
+                PLEASE AUTHENTICATE IDENTITY WITH
+                <br>
+                COMPANY STANDARD COMPETENCY TEST:
+            </h2>
+            <br>
+
+            <!-- SLIDERS -->
+            <!-- lord help me, nothing I do changes the css of these godforsaken sliders -->
+            <!-- we've both been trying since week 2 to change these thumbs to puzzle pieces but they just WONT -->
+            <!-- Hours wasted here: 6 -->
+            <mat-slider>
+                <input matSliderThumb id="slider_left" formControlName="slider_left" value="0">
+                <!-- <img src="../../../assets/cursedPuzzle.png" class="puzzleIcon"> -->
+            </mat-slider>
+
+            <mat-slider>
+                <input matSliderThumb id="slider_right" formControlName="slider_right" value="100">
+                <!-- <img src="../../../assets/cursedPuzzle.png" class="puzzleIcon"> -->
+            </mat-slider>
+            <!-- SLIDERS -->
+
+            <br><br>
+
+            <!-- Error message -->
+            <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+
+            <br><br>
+
+            <input type="submit" class="button-49" role="button" value="AUTHENTICATE" />
+        </form>
+    </div>
+
+</div>
